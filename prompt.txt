@@ -1,0 +1,20 @@
+
+prompts utilizados no chatgpt:
+
+faça um texto para ebook, com foco em python, listando os principais seletores python com exemplos em código
+
+{REGRAS}
+
+> Explique sempre de uma maneira simples
+
+> Deixe o texto enxuto
+
+> Sempre traga exemplos de código em contextos reais
+
+> Sempre deixe um título sugestivo 
+
+
+crie um titulo de um ebook sobre o tema de python, o ebook é do nicho de programação e o subnicho é python, o titulo deve ser epico e curto e tenha uma tematica mais nerd, como star wars, me limite a 5 variaçoes
+
+
+ELABORE TEXTO DO A Origem da Força Pythonica: Explore a história por trás da criação e evolução da linguagem Python, desde suas origens até se tornar uma das mais influentes e versáteis ferramentas no universo da programação.
